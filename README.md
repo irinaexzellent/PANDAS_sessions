@@ -37,6 +37,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+Проверить работу: http://localhost:8888/notebooks/Sessions.ipynb
+
 # Автор
 
 * **Ирина Иконникова** -  [IrinaIkonnikova](https://github.com/irinaexzellent)
